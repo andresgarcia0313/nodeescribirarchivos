@@ -1,0 +1,2 @@
+C:\Archivos\Desarrollo\Javascript\escribirarchivos\folder\example.txt
+Hello, this is an example file for Node.js on Windows.
